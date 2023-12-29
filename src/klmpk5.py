@@ -105,7 +105,7 @@ def matriks_transpose():
     display_matrix(transpose_matrix)
 
 
-# Function to get matrix input
+
 def get_matrix_from_input(size):
     print(f"Masukkan elemen matriks {size}x{size}:")
     matrix = []
@@ -117,14 +117,11 @@ def get_matrix_from_input(size):
     return matrix
 
 
-# Function to display matrix
 def display_matrix(matrix):
     print("Matrix:")
     for row in matrix:
         print(" ".join([str(x) for x in row]))
 
-
-# Function to perform operations
 def perform_operations(matrix):
     transpose_matrix = np.transpose(matrix)
     print("\nMatriks Transpose: ")
