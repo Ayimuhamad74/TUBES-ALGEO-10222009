@@ -34,23 +34,23 @@ Selamat datang di Kalkulator Matriks! Proyek ini bertujuan untuk memenuhi tugas 
 
 1. **Pertambahan dan Pengurangan Matriks:**
 
-   - Masukkan matriks pertama dan kedua.
    - Pilih operasi pertambahan atau pengurangan.
+   - Masukkan matriks pertama dan kedua.
 
 2. **Transpose Matriks:**
 
-   - Pilih matriks yang akan ditranspose.
    - Pilih jenis matriks 2x2 atau 3x3
+   - Masukan nilai matriks yang akan ditranspose.
 
 3. **Balikan Matriks:**
 
-   - Masukkan matriks persegi.
+   - Masukkan nilai matriks.
    - Proses akan memberikan hasil balikan atau pesan kesalahan jika matriks tidak memiliki balikan.
 
 4. **Determinan Matriks:**
 
-   - Masukkan matriks persegi.
-     -Pilih jenis determinan 2x2 atau 3x3
+   -Pilih jenis determinan 2x2 atau 3x3
+   - Masukkan nilai matriks.
    - Proses akan memberikan nilai determinan atau pesan kesalahan jika matriks tidak memiliki determinan.
 
 5. **Sistem Persamaan Linear (SPL):**
